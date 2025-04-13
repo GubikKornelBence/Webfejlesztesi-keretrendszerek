@@ -4,7 +4,7 @@ Egyenlőre a belépés csak beégetett felhasználóval működik, de ha jól é
 a jelenlegi beégetett bejenlentkező email:max@pont.hu<br>
 a jelenlegi beégetett bejenlentkező jelszó:csakAzSZTE<br>
 
-Maga a futtatás csak annyi hogy ng serve a mappában és localhost:4200 semmi extra nem kell hozzá.<br>
+Maga a futtatás csak annyi hogy npm install -> ng serve a mappában és localhost:4200 semmi extra nem kell hozzá.<br>
 
 Csináltam ilyen kis listát magamnak hogy tudjam mi valósult meg és mi nem, gondoltam berakom hogy megkönnyebítse a javítást.<br>
 -ng serve esetén semmi hiba nincs +1<br>
