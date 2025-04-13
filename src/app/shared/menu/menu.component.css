@@ -1,0 +1,37 @@
+
+    nav {
+      background-color: #E2786F;
+      width: 100%;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  }
+  
+  ul li:hover {
+    background-color: #3A4055;
+    color: white;
+  }
+  a {
+      text-decoration: none;
+      color: white;
+      font-size: 30px;
+  }
+  a {
+    text-decoration: none;
+    color: white;
+    font-size: 30px;
+    border-radius: 0 !important;
+}
+
+.mdc-list-item:focus::before {
+    opacity: 0 !important;
+}
+
+.active-list-item {
+    background-color: #3A4055;
+    color: white;
+    font-weight: bold;
+}
+
+mat-nav-list {
+    min-width: 200px;
+}
